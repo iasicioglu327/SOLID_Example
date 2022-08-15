@@ -8,11 +8,14 @@ namespace SOLID_Example
 {
     internal class DIP_ReturnProduct
     {
-        IDIP_RefundMoney refundMoney;
+        IDIP_RefundMoney _refundMoney;
+        public DIP_ReturnProduct(IDIP_RefundMoney refundMoney)
+        {
+            _refundMoney = refundMoney;
+        }
         public string RefundMoney()
         {
-            var r1 = refundMoney.RefundMoney();
-            return r1.ToString();
+            return _refundMoney.RefundMoney();
         }
     }
 }

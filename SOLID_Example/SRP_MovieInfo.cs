@@ -11,8 +11,8 @@ namespace SOLID_Example
         public int ID { get; set; }
         public string MovieTitle { get; set; }
         public string MovieGenre { get; set; }
-        public SRP_AddWatchlist Watchlist { get; set; }
-        public SRP_MovieVoting MovieVoting { get; set; }
+        public bool Watchlist { get; set; }
+        public int MovieVoting { get; set; }
 
         public void GetMovieInfos()
         {

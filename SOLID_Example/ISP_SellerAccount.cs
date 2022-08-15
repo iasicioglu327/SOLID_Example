@@ -14,7 +14,7 @@ namespace SOLID_Example
             Console.WriteLine("Seller commented for product");
         }
 
-        public void IISP_SellProduct()
+        public void SellProduct()
         {
             Console.WriteLine("Seller sold the product");
         }

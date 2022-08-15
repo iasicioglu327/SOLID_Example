@@ -8,6 +8,6 @@ namespace SOLID_Example
 {
     internal interface IISP_SellProduct
     {
-        public void IISP_SellProduct();
+        public void SellProduct();
     }
 }
