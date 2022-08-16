@@ -1,0 +1,15 @@
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ObjectOrientedExample.exe
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ObjectOrientedExample.deps.json
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ObjectOrientedExample.runtimeconfig.json
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ObjectOrientedExample.dll
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ref\ObjectOrientedExample.dll
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\net6.0\ObjectOrientedExample.pdb
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.csproj.AssemblyReference.cache
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.AssemblyInfoInputs.cache
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.AssemblyInfo.cs
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.csproj.CoreCompileInputs.cache
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.dll
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ref\ObjectOrientedExample.dll
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.pdb
+C:\Users\evren\source\repos\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\net6.0\ObjectOrientedExample.genruntimeconfig.cache
