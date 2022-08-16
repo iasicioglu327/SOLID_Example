@@ -1,0 +1,15 @@
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\CollectionExample.exe
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\CollectionExample.deps.json
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\CollectionExample.runtimeconfig.json
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\CollectionExample.dll
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\ref\CollectionExample.dll
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\bin\Debug\net6.0\CollectionExample.pdb
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.csproj.AssemblyReference.cache
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.AssemblyInfoInputs.cache
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.AssemblyInfo.cs
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.dll
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\ref\CollectionExample.dll
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.pdb
+C:\Users\evren\source\repos\CollectionExample\CollectionExample\obj\Debug\net6.0\CollectionExample.genruntimeconfig.cache
